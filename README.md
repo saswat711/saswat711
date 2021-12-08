@@ -1,5 +1,6 @@
 ### Hi there 👋
 #### Developer and Designer
+*![Android](https://github.com/saswat711/saswat711/blob/main/personal%20jpg%20phot.jpg)
 
 
 I'm Saswat from India, I am tech enthusiast love to learn the programming and software aspect and love to combine them with hardware aspects like in arduino and for IOT purposes.
