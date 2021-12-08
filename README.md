@@ -25,7 +25,7 @@ Skills: ANDROID/JAVA/MATLAB/ARDUINO/BOLT IOT/C/AI and ML/PYTHON
 
 ![Profile views](https://gpvc.arturio.dev/saswat711)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saswat711&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saswat711&show_icons=true&theme=onedark&&bg_color=DEG,#8bbef3,#fdd422,#fa6164,#c73967,#2c4096)
 
 <!--
 **saswat711/saswat711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
