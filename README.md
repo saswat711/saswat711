@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Saswat from India, I am tech enthusiast love to learn the programming and software aspect and love to combine them with hardware aspects like in arduino and for IOT purposes. You can check me in LinkedIn https://www.linkedin.com/in/saswat-mund-3bb7a8200/.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saswat711)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **saswat711/saswat711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
