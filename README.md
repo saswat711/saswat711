@@ -14,8 +14,8 @@ I'm Saswat from India, I am tech enthusiast love to learn the programming and so
 * ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
-- 🔭 I’m currently working on A home automation system using Bolt IOT and Arduino 
-- 🌱 I’m currently learning IOT with Machine Learning 
+- 🔭 I’m currently working on DIY gaming controller using arduino
+- 🌱 I’m currently learning Embedded Systems and Cross-Platform development using Flutter
 - 📫 How to reach me: You can reach me through my email address: saswatmund711@gmail.com or message me in LinkedIn https://www.linkedin.com/in/saswat-mund-3bb7a8200/ 
 
 
