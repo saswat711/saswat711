@@ -1,7 +1,5 @@
 ### Hi there 👋
 #### Developer and Designer
-![Designer and Developer]
-
 
 I'm Saswat from India, I am tech enthusiast love to learn the programming and software aspect and love to combine them with hardware aspects like in arduino and for IOT purposes.
 
