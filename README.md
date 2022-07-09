@@ -14,9 +14,11 @@ I'm Saswat from India, I am tech enthusiast love to learn the programming and so
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 * ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+* ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+* ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-- 🔭 I’m currently working on DIY gaming controller using arduino and esp32
-- 🌱 I’m currently learning Embedded Systems and Cross-Platform development using Flutter
+- 🔭 I’m currently working on a Flutter project for an internship.
+- 🌱 I’m currently learning Embedded Systems and Cross-Platform development using Flutter.
 - 📫 How to reach me: You can reach me through my email address: saswatmund711@gmail.com or message me in LinkedIn https://www.linkedin.com/in/saswat-mund-3bb7a8200/ 
 
 
