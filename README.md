@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### Developer and Designer
 
-I'm Saswat from India, I am tech enthusiast love to learn the programming and software aspect and love to combine them with hardware aspects like in arduino and for IOT purposes.
+I'm Saswat from India, I am a tech enthusiast, who love to learn the programming and software aspect and enjoy combining them with hardware aspects like in arduino and for IOT purposes.
 
 ## Skills: 
 * ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
