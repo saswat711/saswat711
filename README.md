@@ -5,7 +5,7 @@ I'm Saswat from India, I am a tech enthusiast, who love to learn the programming
 
 ## Skills: 
 * ![FPGA/ASIC Design](https://img.shields.io/badge/FPGA/ASIC%20Design-02569B?style=for-the-badge&logo=&logoColor=white)
-* ![RTL Design] (https://img.shields.io/badge/RTL%20Design-470137?style=for-the-badge&logo=&logoColor=white)
+* ![RTL Design](https://img.shields.io/badge/RTL%20Design-470137?style=for-the-badge&logo=&logoColor=white)
 * ![Verilog](https://img.shields.io/badge/Verilog-E7352F?style=for-the-badge&logo=&logoColor=white)
 * ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 * ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
