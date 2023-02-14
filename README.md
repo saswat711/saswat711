@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### Developer and Designer
 
-I'm Saswat from India, I am a tech enthusiast, who love to learn the programming and software aspect and enjoy combining them with hardware aspects like in arduino and for IOT purposes.
+I'm Saswat from India, I am a tech enthusiast, who love to learn the programming and software aspect and enjoy combining them with hardware aspects like for IOT purposes. But Yeah Core interest has always been on RTL based SoC/FPGA/ASIC Design.
 
 ## Skills: 
 * ![FPGA/ASIC Design](https://img.shields.io/badge/FPGA/ASIC%20Design-02569B?style=for-the-badge&logo=&logoColor=white)
