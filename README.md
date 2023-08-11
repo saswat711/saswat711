@@ -1,26 +1,22 @@
 ### Hi there 👋
-#### Developer and Designer
+#### Developing Designs
 
-I'm Saswat from India, A SoC Modelling Engineer, who love to learn the programming and software aspect and enjoy combining them with hardware aspects like virtual prototyping. But Yeah Core interest has always been on SoC Design.
+I'm Saswat from India, A tech enthusiast, who love to learn the programming and software aspect and enjoy combining them with hardware aspects like virtual prototyping. But Yeah Core interest has always been on SoC Design.
 
 ## Skills: 
-* ![FPGA/ASIC Design](https://img.shields.io/badge/FPGA/ASIC%20Design-02569B?style=for-the-badge&logo=&logoColor=white)
 * ![RTL Design](https://img.shields.io/badge/RTL%20Design-470137?style=for-the-badge&logo=&logoColor=white)
 * ![Verilog](https://img.shields.io/badge/Verilog-E7352F?style=for-the-badge&logo=&logoColor=white)
-* ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-* ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 * ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 * ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 * ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 * ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-* ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-* ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+* ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 * ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-- 🔭 I’m currently working on Gamemat development using RFID's.
-- 🌱 I’m currently learning ASIC, FPGA Design and Verification using Verilog.
+- 🔭 I’m currently working as a SoC Modelling Engineer.
+- 🌱 I’m currently learning Virtual Protyping, SystemC based Modelling. 
 - 📫 How to reach me: You can reach me through my email address: saswatmund711@gmail.com or message me in LinkedIn https://www.linkedin.com/in/saswat-mund-3bb7a8200/ 
 
 
