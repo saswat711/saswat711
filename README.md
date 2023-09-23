@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Developing Designs
+#### Modeling Designs (SoC obviously)
 
 I'm Saswat from India, A tech enthusiast, who love to learn the programming and software aspect and enjoy combining them with hardware aspects like virtual prototyping. But Yeah Core interest has always been on SoC Design.
 
